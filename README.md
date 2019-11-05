@@ -1,13 +1,13 @@
  
-<h>
+<h1>
  How to run your project:
- </h>
+ </h1>
 <p>
 To run this project you will want to download the zip file to your local machine. Once this is done you will want to open a terminal and go place the path to the zip file within your zip file (on some machines you can also use cd then drag and drop the file onto your terminal). Once this is done open up a local server to run the documents on, with many machines you will use the command ‘python -m http.server’, once the server is up and running you will go to a browser and type in ‘localhost:8000’ this will open your personal server and from there you will be able to view all of the visualizations and their associated programs.The two visualizations can be opened in a local server,  the first visualization named  'file.html', the second visualization named 'tech_savvy.html'. 
 </p>
-<h>
+<h1>
 Visualization One: 
- </h>
+ </h1>
 <p>
 In the first visualization, our group was working to use python to show look further into quantitative  country data to further see how highly they rate privacy and security when looking to buy new technologies. This was really interesting to look into because not only were we able to look at how the different measurements that were presented within the comparison but we were also able to tailor the visualization to be interactive in a way that could support our data. (talk more about how we made it interactive) 
 
