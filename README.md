@@ -28,7 +28,7 @@ Lanea worked on the visualization that was coded in python with Priya to get an 
  
 Priya worked on the first visualization on python with Lanea to create an interactive visualization that gives viewers a different insight into the dataset. Priya also worked on part of the write up for the ReadMe.
  
-Jake explored visualizations using ggplot and plotly in R because he had more experience in that language from other CU courses that use R. Jake also brainstormed ideas and completed the write up for the second visualization.
+Jake explored visualizations using ggplot2 and plotly library in R because he had more experience in that language from other CU courses that use R. Jake also brainstormed ideas and completed the write up for the second visualization.
  
 Edgar created the bar chart in D3. Without prior experience in Javascript, HTML, and D3, he was able to successfully create the visualization with help from the workshop in class on Halloween and online tutorials. 
 
